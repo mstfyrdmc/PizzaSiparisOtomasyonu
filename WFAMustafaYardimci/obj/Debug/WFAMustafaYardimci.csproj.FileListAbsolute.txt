@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\bin\Debug\WFAMustafaYardimci.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\bin\Debug\WFAMustafaYardimci.exe
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\bin\Debug\WFAMustafaYardimci.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\obj\Debug\WFAMustafaYardimci.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\obj\Debug\WFAMustafaYardimci.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\obj\Debug\WFAMustafaYardimci.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\obj\Debug\WFAMustafaYardimci.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\obj\Debug\WFAMustafaYardimci.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\obj\Debug\WFAMustafaYardimci.exe
+C:\Users\Mustafa YARDIMCI\Desktop\WFAMustafaYardimci\WFAMustafaYardimci\obj\Debug\WFAMustafaYardimci.pdb
